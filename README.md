@@ -12,6 +12,6 @@ This website is built using only HTML and CSS.
 
 Clone the repository using the following command
 
-'''
+```
 git clone git@github.com:brickdwarf/homework-refactor-horiseon.git
-'''
+```
