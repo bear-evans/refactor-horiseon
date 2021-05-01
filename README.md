@@ -6,5 +6,12 @@ The Horiseon project is an example website for a Search Engine Optimization serv
 
 ## Built With
 
-* HTML
-* CSS
+This website is built using only HTML and CSS.
+
+## Installation
+
+Clone the repository using the following command
+
+'''
+git clone git@github.com:brickdwarf/homework-refactor-horiseon.git
+'''
