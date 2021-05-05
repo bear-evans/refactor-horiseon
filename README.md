@@ -1,4 +1,4 @@
-# homework-refactor-horiseon
+# refactor-horiseon
 
 ## About This Project
 
