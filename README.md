@@ -1,4 +1,6 @@
-# refactor-horiseon
+# Horiseon Code Refactor
+
+![screenshot](https://raw.githubusercontent.com/bear-evans/animal-quiz/main/assets/Screenshot.jpg)
 
 ## About This Project
 
